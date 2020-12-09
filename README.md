@@ -1,4 +1,4 @@
-DragLinearLayout
+DragLinearLayout (https://github.com/justasm/DragLinearLayout)
 ================
 
 ![Dragging and swapping children views.](/sample/sample_in_action.gif)
