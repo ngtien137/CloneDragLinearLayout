@@ -1,7 +1,7 @@
-DragLinearLayout
+DragLinearLayout (https://github.com/justasm/DragLinearLayout)
 ================
 
-![Dragging and swapping children views.](/sample/sample_in_action.gif)
+![Dragging and swapping children views.](https://github.com/justasm/DragLinearLayout/blob/master/sample/sample_in_action.gif)
 
 An Android `LinearLayout` that supports draggable and swappable child `View`s.
 
